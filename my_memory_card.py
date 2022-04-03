@@ -1,4 +1,5 @@
 #создай приложение для запоминания информации
+#,kf,kf,kf
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import *
 from random import *
